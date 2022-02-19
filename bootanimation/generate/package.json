@@ -1,0 +1,16 @@
+{
+  "name": "bootanimation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "file-saver": "^2.0.5",
+    "jszip": "^3.7.1",
+    "save-svg-as-png": "^1.4.17"
+  }
+}
